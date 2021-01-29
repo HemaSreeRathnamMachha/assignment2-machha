@@ -11,4 +11,4 @@ It is made with multiple spices,chicken and Basmati Rice.I came from a place cal
     1. Add maggie to the hot water.
         - We require maggie.
 3. Once the maggie is cooked in hot water, add masala which is given.
-    1. Now its ready to serve!!
+    - Now its ready to serve!!
