@@ -19,7 +19,7 @@ It is made with multiple spices,chicken and Basmati Rice.I came from a place cal
 [AboutMe URL](AboutMe.md)
 
 ------  
-### Places to Visit
+# Places to Visit
 The below table gives information about my recommendations to anyone about the places to visit in India. The budget range is between 10000 INR to 20000 INR.  
 
 | Location         | Hours    | Amount    |
@@ -29,7 +29,7 @@ The below table gives information about my recommendations to anyone about the p
 | Hyderabad- India | 48 Hours | 10000 INR |
 | Vizag- India     | 24 Hours | 10000 INR |  
 ---------
-### Quotes
+# Quotes
 > No matter how you feel today, get up, dress up & show up  
 ― *Paulo Coelho*  
 > If you can't feed a hundred people, then feed just one  
