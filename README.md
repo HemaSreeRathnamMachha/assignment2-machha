@@ -22,4 +22,10 @@ The below table gives information about my recommendations to anyone about the p
 | Udaipur- India   | 48 hours | 15000 INR |
 | Kerala- India    | 72 Hours | 20000 INR |
 | Hyderabad- India | 48 Hours | 10000 INR |
-| Vizag- India     | 24 Hours | 10000 INR |
+| Vizag- India     | 24 Hours | 10000 INR |  
+---------
+### Quotes
+> No matter how you feel today, get up, dress up & show up  
+― *Paulo Coelho*  
+> If you can't feed a hundred people, then feed just one  
+― *Mother Teresa*
