@@ -14,7 +14,9 @@ It is made with multiple spices,chicken and Basmati Rice.I came from a place cal
     - Now its ready to serve!!  
 
 [AboutMe URL](AboutMe.md)  
+
 The below table gives information about my recommendations to anyone about the places to visit in India. The budget range is between 10000 INR to 20000 INR.  
+
 | Location         | Hours    | Amount    |
 |------------------|----------|-----------|
 | Udaipur- India   | 48 hours | 15000 INR |
