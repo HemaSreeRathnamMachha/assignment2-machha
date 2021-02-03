@@ -16,9 +16,9 @@ It is made with multiple spices,chicken and Basmati Rice.I came from a place cal
 3. Once the maggie is cooked in hot water, add masala which is given.
     - Now its ready to serve!!  
 
-![Maggi](Images/Maggi.JPG)  
-![Maggi](Images/hotwater.JPG) 
-![Maggi](Images/Maggi-masala.JPG) 
+![Maggi](Images/Maggi.JPG)  ![Maggi](Images/hotwater.JPG) 
+    ![Maggi](Images/Maggi-masala.JPG) 
+    
 [AboutMe URL](AboutMe.md)
 
 ------  
