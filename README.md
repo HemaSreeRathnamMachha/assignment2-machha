@@ -33,7 +33,7 @@ The below table gives information about my recommendations to anyone about the p
 | Vizag- India     | 24 Hours | 10000 INR |  
 
 ![Udaipur](Images/udaipur.JPG)  ![Kerala](Images/kerala.JPG) 
-![Hyderabad](Images/Hyderabad.JPG)  ![Vizag](Images/vizag.JPG) 
+![Hyderabad](Images/Hyderabad.JPG)  ![Vizag](Images/vizag.JPG)  
 
 ---------
 # Quotes
