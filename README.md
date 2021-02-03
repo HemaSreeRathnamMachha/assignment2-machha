@@ -16,9 +16,9 @@ It is made with multiple spices,chicken and Basmati Rice.I came from a place cal
 3. Once the maggie is cooked in hot water, add masala which is given.
     - Now its ready to serve!!  
 
-![Maggi](Images/Maggi.JPG)  ![Maggi](Images/hotwater.JPG) 
-    ![Maggi](Images/Maggi-masala.JPG) 
-    
+![Maggi](Images/Maggi.JPG)  ![Hotwater](Images/hotwater.JPG) 
+    ![Maggi-masala](Images/Maggi-masala.JPG) 
+
 [AboutMe URL](AboutMe.md)
 
 ------  
@@ -31,6 +31,12 @@ The below table gives information about my recommendations to anyone about the p
 | Kerala- India    | 72 Hours | 20000 INR |
 | Hyderabad- India | 48 Hours | 10000 INR |
 | Vizag- India     | 24 Hours | 10000 INR |  
+
+![Udaipur](Images/udaipur.JPG)  
+![Kerala](Images/kerala.JPG) 
+![Hyderabad](Images/Hyderabad.JPG)  
+![Vizag](Images/vizag.JPG) 
+
 ---------
 # Quotes
 > No matter how you feel today, get up, dress up & show up  ― *Paulo Coelho*  
