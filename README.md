@@ -43,6 +43,6 @@ Source Link - <https://en.wikipedia.org/wiki/Salesforce#Apex>
   "list<${1:object}> ${2:lstName} = new list<${1}>();"
  ],
  "description":"List of sObjects"
-},```  
+}```  
 
 Code source link - <https://www.salesforcecodecrack.com/2019/01/apex-snippets-for-apex-in-visual-studio.html>
