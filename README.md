@@ -35,7 +35,7 @@ The below table gives information about my recommendations to anyone about the p
 ---------
 # Code Fencing
 > Apex is a proprietary programming language provided by the Force.com platform to developers similar to Java and C#. It is a strongly typed, object-oriented, case-insensitive programming language, following a dot-notation and curly-brackets syntax. Apex can be used to execute programmed functions during most processes on the Force.com platform including custom buttons and links, event handlers on record insertion, update, or deletion, via scheduling, or via the custom controllers of Visualforce or Lightning Experience pages.  
-[Source Link](https://en.wikipedia.org/wiki/Salesforce#Apex)  
+[Source Link]<https://en.wikipedia.org/wiki/Salesforce#Apex>  
 ```"List_Apex": {
  "prefix": "list<",
  "body": [
@@ -43,4 +43,5 @@ The below table gives information about my recommendations to anyone about the p
  ],
  "description":"List of sObjects"
 },```  
-[code source link](https://www.salesforcecodecrack.com/2019/01/apex-snippets-for-apex-in-visual-studio.html)
+
+[code source link]<https://www.salesforcecodecrack.com/2019/01/apex-snippets-for-apex-in-visual-studio.html>
